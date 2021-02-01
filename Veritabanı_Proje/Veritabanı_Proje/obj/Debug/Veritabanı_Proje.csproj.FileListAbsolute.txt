@@ -1,0 +1,46 @@
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\bin\Debug\Veritabanı_Proje.exe.config
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\bin\Debug\Veritabanı_Proje.exe
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\bin\Debug\Veritabanı_Proje.pdb
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.Properties.Resources.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.exe
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.pdb
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.UyeEkle.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.Giris.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.Menu.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.PersonelEkle.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.KitapEkle.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.BilgisayarEkle.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.BilgisayarOduncVer.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.KitapOduncVer.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.KitapListe.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.PersonelListe.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.UyeListe.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.BilgisayarListe.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.OduncBilgisayarListe.resources
+C:\Users\DELL\source\repos\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.OduncKitapListe.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\bin\Debug\Veritabanı_Proje.exe.config
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\bin\Debug\Veritabanı_Proje.exe
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\bin\Debug\Veritabanı_Proje.pdb
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.csprojAssemblyReference.cache
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.BilgisayarEkle.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.BilgisayarListe.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.BilgisayarOduncVer.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.Giris.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.KitapListe.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.Menu.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.KitapOduncVer.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.OduncBilgisayarListe.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.OduncKitapListe.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.PersonelEkle.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.KitapEkle.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.PersonelListe.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.UyeEkle.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.Properties.Resources.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.UyeListe.resources
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.csproj.GenerateResource.cache
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.csproj.CoreCompileInputs.cache
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.exe
+D:\Döküman\3.Sınıf-1.Dönem\Veritabanı Yönetim Sistemleri\Ödev3\Veritabanı_Proje\Veritabanı_Proje\obj\Debug\Veritabanı_Proje.pdb
